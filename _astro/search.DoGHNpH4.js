@@ -1,0 +1,1 @@
+var e=e=>String(e??``).replace(/\s+/g,` `).trim();function t(t,n){let r=e(n).toLocaleLowerCase();return r?(Array.isArray(t)?t:[]).filter(t=>e(t.text).toLocaleLowerCase().includes(r)):[]}function n(e){return[`pages`,`articles`,`projects`].map(t=>({type:t,entries:(e??[]).filter(e=>e.type===t)}))}export{n,t};

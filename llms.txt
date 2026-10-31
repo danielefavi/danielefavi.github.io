@@ -1,0 +1,30 @@
+# Daniele Favi
+
+> Tech Lead and Software Engineer focused on technical leadership,
+> software architecture, system design, and AI-assisted development.
+
+Professional focus: technical leadership roles, including Tech Lead,
+Software Engineering Team Lead, and Software Architect.
+
+Core strengths include technical leadership, software architecture
+and design, AI prompt engineering, and AI workflow orchestration.
+Interested in exploring and evaluating emerging technologies.
+
+This website presents selected public projects and technical writing,
+not a complete employment record. For professional enquiries,
+use the contact links below.
+
+## Professional profile
+
+- [Homepage](https://www.danielefavi.com/): Professional introduction.
+- [Projects](https://www.danielefavi.com/projects/): Public software projects.
+- [GitHub](https://github.com/danielefavi): Public repositories and contributions.
+
+## Technical writing
+
+- [Blog](https://www.danielefavi.com/blog/): Articles and practical programming examples.
+
+## Contact
+
+- [Contacts](https://www.danielefavi.com/contacts/): Public professional contact channels.
+- [LinkedIn](https://www.linkedin.com/in/daniele-favi): Professional profile and enquiries.
